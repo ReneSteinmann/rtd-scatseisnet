@@ -1,5 +1,5 @@
 Welcome to ScatSeisNet's documentation!
-===================================
+===========================================================
 
 **ScatSeisNet** is a Python library that implements the scattering network to calculate scattering coefficients from seismic time series data.
 It has its documentation with tutorials hosted on Read the Docs.
