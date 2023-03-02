@@ -5,9 +5,13 @@ python:
   install:
     - method: pip
       path: .
-    - requirements: requirements.txt
+
+python:
+  version: 3
+  install:
+    - requirements: docs/requirements.txt
   system_packages: true
-      
+  
 build:
   os: "ubuntu-20.04"
   tools:
