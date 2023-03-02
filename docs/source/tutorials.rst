@@ -2,9 +2,8 @@ Tutorial
 ========
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-   tutorial/general
-   tutorial/notebooks/0_download
-   tutorial/notebooks/1_preprocess
+   tutorials/1_scattering_network_design.ipynb
+   tutorials/2_scattering_transform.ipynb
